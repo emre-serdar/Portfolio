@@ -1,8 +1,8 @@
 import React from 'react';
 import { useState, useEffect, useRef } from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import headerImg from "../assets/img/header-img.json";
-import profileImg from "../assets/img/profile-img.png";
+import headerImg from "assets/img/header-img.json";
+import profileImg from "assets/img/profile-img.png";
 import { ArrowRightCircle } from 'react-bootstrap-icons';
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';

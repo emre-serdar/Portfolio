@@ -2,12 +2,14 @@ import { useState, useEffect, React} from "react";
 import { Navbar, Nav, Container } from "react-bootstrap";
 import { Link, BrowserRouter as Router } from 'react-router-dom';
 import { HashLink } from 'react-router-hash-link';
-import logo from '../assets/img/logo.svg';
+import logo from 'assets/img/logo.svg';
 
 
 import linkedinIcon from '../assets/img/nav-icon1.svg';
 import githubIcon from '../assets/img/nav-icon2.svg';
 import downloadIcon from '../assets/img/nav-icon3.svg';
+import resumeFile from '../assets/resume.pdf';
+
 
 
 export const NavBar = () => {
@@ -37,9 +39,12 @@ export const NavBar = () => {
       <Navbar expand="md" className={scrolled ? "scrolled" : ""}>
         <Container>
           <Navbar.Brand as={Link} to="/">
+          <div className="brand-content">
             <img src={logo} alt="Logo" className="logo" />
+            <h5 className="logo-header">Emre Serdar</h5>
+          </div>
           </Navbar.Brand>
-          <h5 className="logo-header">Emre Serdar</h5>
+          
           <Navbar.Toggle aria-controls="basic-navbar-nav">
             <span className="navbar-toggler-icon"></span>
           </Navbar.Toggle>
@@ -57,7 +62,7 @@ export const NavBar = () => {
                 <a href="https://github.com/emre-serdar" target="_blank" rel="noopener noreferrer">
                   <img src={githubIcon} alt="GitHub" className="icon" />
                 </a>
-                <a href="https://github.com/emre-serdar/Portfolio/resume.pdf" download>
+                <a href={resumeFile} download>
                   <img src={downloadIcon} alt="Download" className="icon" />
                 </a>
               </div>

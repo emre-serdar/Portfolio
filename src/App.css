@@ -649,10 +649,19 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   margin-top: 20px;
 }
 
+.brand-content {
+  display: flex;
+  align-items: center;
+}
+
 .logo {
     width: 40px; 
     height: auto; 
     filter: brightness(0) invert(1); /* Make the logo white */
+    margin-right: 15px;
+}
+.logo-header{
+  color: #FFFFFF;
 }
 
 .profile-img {
