@@ -58,12 +58,15 @@ export const NavBar = () => {
               <div className="social-icon">
                 <a href="https://www.linkedin.com/in/emre-serdar/" target="_blank" rel="noopener noreferrer">
                   <img src={linkedinIcon} alt="LinkedIn" className="icon" />
+                  <span className="icon-text">LinkedIn</span>
                 </a>
                 <a href="https://github.com/emre-serdar" target="_blank" rel="noopener noreferrer">
                   <img src={githubIcon} alt="GitHub" className="icon" />
+                  <span className="icon-text">GitHub</span>
                 </a>
                 <a href={resumeFile} download>
                   <img src={downloadIcon} alt="Download" className="icon" />
+                  <span className="icon-text">Resume</span>
                 </a>
               </div>
               <HashLink to='#connect'>

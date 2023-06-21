@@ -128,6 +128,22 @@ span.navbar-text {
     justify-content: center;
     line-height: 1;
     border: 1px solid rgba(255, 255, 255, 0.5);
+    position: relative; /* Add position relative */
+}
+.icon-text{
+  display: none;
+  margin-top: 5px;
+  position: absolute; /* Position the text */
+  bottom: -20px; /* Adjust the distance from the icon */
+  left: 50%; /* Center the text horizontally */
+  transform: translateX(-50%); /* Center the text horizontally */
+  font-size: 14px;
+  text-align: center;
+  color: #FFFFFF;
+  font-weight: bold;
+}
+.social-icon a:hover .icon-text {
+  display: block; /* Show the text on hover */
 }
 .social-icon a::before {
     content: "";
