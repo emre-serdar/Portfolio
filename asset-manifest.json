@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b318f2cf.css",
-    "main.js": "/static/js/main.e155b396.js",
+    "main.css": "/static/css/main.efc2bfe2.css",
+    "main.js": "/static/js/main.f38c4720.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/project-img1.png": "/static/media/project-img1.7741f09d20d33e1fafd0.png",
     "static/media/project-img2.png": "/static/media/project-img2.a0d754515cb9c5fc9d4c.png",
@@ -11,10 +11,10 @@
     "static/media/project-img3.png": "/static/media/project-img3.633f447ad1449100ffee.png",
     "static/media/project-img4.png": "/static/media/project-img4.55f7b41fc2e5de22b460.png",
     "static/media/banner-bg.png": "/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/resume.pdf": "/static/media/resume.34fec7378a84dbd82a4b.pdf",
     "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
-    "static/media/resume.pdf": "/static/media/resume.02731123b41c916cb781.pdf",
     "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/contact-img.svg": "/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "static/media/project-img5.png": "/static/media/project-img5.d68f27ffd4055a6b4b16.png",
@@ -39,12 +39,12 @@
     "static/media/logo9.svg": "/static/media/logo9.44524ed446584999970651f56f9d02c0.svg",
     "static/media/logo5.svg": "/static/media/logo5.03fdecbfd26561a058e76b84d95184a7.svg",
     "static/media/logo13.svg": "/static/media/logo13.06152e58c3b0709047ce84114a1c69f1.svg",
-    "main.b318f2cf.css.map": "/static/css/main.b318f2cf.css.map",
-    "main.e155b396.js.map": "/static/js/main.e155b396.js.map",
+    "main.efc2bfe2.css.map": "/static/css/main.efc2bfe2.css.map",
+    "main.f38c4720.js.map": "/static/js/main.f38c4720.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b318f2cf.css",
-    "static/js/main.e155b396.js"
+    "static/css/main.efc2bfe2.css",
+    "static/js/main.f38c4720.js"
   ]
 }
