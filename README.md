@@ -1,31 +1,38 @@
 # Portfolio
 
-Welcome to my portfolio repository! This repository showcases my web development projects and serves as a platform to demonstrate my skills and expertise in front-end development.
+Welcome to my portfolio repository! This repository showcases my web development projects and highlights my skills and expertise in front-end development.
 
 ## About
 
-As a dedicated Front-End Software Engineer, I focus on creating intuitive web applications with seamless user experiences. With a strong background in software engineering, I strive to improve my skills in front-end development.
+As a dedicated Software Engineer, I focus on creating intuitive web applications with seamless user experiences. Leveraging a strong background in software engineering, I continually refine my skills in front-end development and strive to adopt best practices in software testing and deployment.
 
-I have expertise in Next.js, React.js, SCSS, Tailwind CSS, GraphQL, Django REST Framework, and AWS EC2/RDS/S3. By leveraging these technologies, I develop innovative applications and contribute effectively to team projects using Agile methodologies.
+My technical expertise includes Next.js, React.js, SCSS, Tailwind CSS, GraphQL, SQL, Django REST Framework, Express.js, MongoDB, and AWS EC2/RDS/S3. By employing these technologies, I develop innovative applications and effectively contribute to team projects using Agile methodologies.
 
 ## Projects
 
 ### Portfolio Website
 
-- The portfolio website is built using React and Animate CSS.
-- It showcases my skills, projects, and provides a seamless user experience.
-- Visit the [Portfolio Website](https://www.emreserdar.com) to explore my work and projects.
+- **Technologies**: React, Animate CSS
+- **Features**: Showcases my skills, projects, and ensures a seamless user experience.
+- :red_circle: **Live Site**: Visit the [Portfolio Website](https://www.emreserdar.com) to explore my work and projects in detail.
 
-### Blog App
 
-- Custom websites tailored to specific client needs.
-- Technologies used: Next.js, React.js, Sass, Tailwind CSS, and GraphQL.
-- Optimized development efficiency and achieved a remarkable 35% reduction in page load times using Next.js SSG.
+## CI/CD Pipeline with GitHub Actions
+
+I've implemented a Continuous Integration/Continuous Deployment (CI/CD) pipeline for this portfolio using GitHub Actions, emphasizing automation to enhance development workflow:
+
+- **Continuous Integration**: Automatic build and test of code changes ensure high-quality development and rapid iteration.
+- **Continuous Deployment**: Seamless deployment of updates to the live portfolio website upon changes to the main branch, ensuring the site reflects the latest advancements.
+
+## Testing
+
+To ensure the reliability and quality of my applications, I'll incorporate comprehensive testing methodologies:
+
 
 ## Contact
 
-If you are interested in collaborating or discussing potential opportunities, please feel free to reach out to me. You can find my contact information and more details on my LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/emre-serdar/)
+For collaboration or discussions on potential opportunities, feel free to reach out. Further contact information and professional details are available on my [LinkedIn profile](https://www.linkedin.com/in/emre-serdar/).
 
 ## License
 
-This project is licensed under the [Apache 2.0 License](LICENSE).
+This project is under the [Apache 2.0 License](LICENSE).
