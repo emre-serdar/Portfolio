@@ -15,7 +15,7 @@ export const Projects = () => {
   const projects = [
     {
       title: "kopernik.org",
-      description: "Satellite image API to send images from RaspberryPi to WordPress.",
+      description: "Satellite Image API to Send Images from RaspberryPi to WordPress.",
       imgUrl: projImg1,
       techstack: "Django REST Framework, VanillaJS, Image Modals with JavaScript, AWS EC2/RDS/S3",
       githubURL: "https://github.com/emre-serdar/kopernik",
@@ -23,7 +23,7 @@ export const Projects = () => {
     },
     {
       title: "erdiserdar.com",
-      description: "Blog app for a client.",
+      description: "Blog App for a Client.",
       imgUrl: projImg2,
       techstack: "Next.js (SSG), React.js, SCSS, Tailwind.css, Swiper.js, GraphQL, Hygraph (Headless CMS), Vercel",
       githubURL: "https://github.com/emre-serdar/blog-web-app",
@@ -31,7 +31,7 @@ export const Projects = () => {
     },
     {
       title: "emreserdar.com",
-      description: "Portfolio website.",
+      description: "Portfolio Website.",
       imgUrl: projImg3,
       techstack: "React.js, Animate.CSS, Node.js, Express.js",
       githubURL: "https://github.com/emre-serdar/Portfolio",
@@ -39,18 +39,18 @@ export const Projects = () => {
     },
     {
       title: "Space Wars",
-      description: "Custom mobile game application.",
+      description: "Custom Mobile Game App.",
       imgUrl: projImg4,
       techstack: "Android Studio, Java, libGDX, AndroidSDK",
       githubURL: "https://github.com/emre-serdar/CustomGameProject",
       websiteURL: "",
     },
     {
-      title: "To Do App",
-      description: "Simple to-do app with Flask.",
+      title: "Analyzing Music Trends",
+      description: "Correlating sentiment and popularity in music data.",
       imgUrl: projImg5,
-      techstack: "Flask",
-      githubURL: "https://github.com/emre-serdar/to-do-app-flask",
+      techstack: "Python, MongoDB, JavaScript/Node.js, Express.js, Chart.js",
+      githubURL: "https://github.com/emre-serdar/Analyzing-Music-Trends-with-NoSQL",
       websiteURL: "",
     },
   ];
