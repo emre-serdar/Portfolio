@@ -16,7 +16,7 @@ export const Banner = () => {
   const [text, setText] = useState('');
   const [delta, setDelta] = useState(100);
   const [index, setIndex] = useState(1);
-  const toRotate = [ "Front-End Developer", "Software Engineer"];
+  const toRotate = [ "Full Stack Developer", "Software Engineer"];
   const period = 700;
   const headerRef = useRef(null);
   useEffect(() => {
@@ -80,10 +80,16 @@ export const Banner = () => {
                 <span className="tagline">Welcome to my Portfolio</span>
                 <img src={profileImg} alt="Profile Img" className="profile-img no-animation"/>
                 <h1>{`Hi! I'm Emre,`} <span className="txt-rotate" data-period="1000" data-rotate='[ "Front-End Developer", "Software Engineer" ]'><span className="wrap">{text}</span></span></h1>
-                  <p>Software Engineer (Front-End focused) specializing in web development with expertise in both front-end and experience with
-back-end technologies. Skilled in UI development, REST API design, and proficient in JavaScript and Python. Experienced in the
-Software Development Life Cycle and adept at utilizing Agile methodologies. Seeking a challenging role in a dynamic and
-collaborative team environment to utilize my skills and expertise in building innovative web applications.</p>
+                  <p>Full Stack Software Engineer specializing 
+                    in web development with extensive experience in both front-end 
+                    and back-end technologies. Proficient in JavaScript, Python, and 
+                    modern web frameworks such as React.js, Node.js, and Next.js. 
+                    Skilled in UI development, REST API design, and implementing 
+                    CI/CD pipelines using GitHub Actions. Strong foundation in data structures and algorithms, 
+                    as well as design patterns. Experienced in the Software Development Life Cycle (SDLC) and 
+                    adept at utilizing Agile methodologies. Seeking a challenging role in a dynamic and 
+                    collaborative team environment to leverage my skills and expertise in building innovative 
+                    and scalable web applications.</p>
                   <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
               </div>}
             </TrackVisibility>
