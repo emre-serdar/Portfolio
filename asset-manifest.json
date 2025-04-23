@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d07354e7.css",
-    "main.js": "/static/js/main.2106a811.js",
+    "main.js": "/static/js/main.55390487.js",
     "static/js/787.e02c0aaf.chunk.js": "/static/js/787.e02c0aaf.chunk.js",
     "static/media/project-img1.png": "/static/media/project-img1.7741f09d20d33e1fafd0.png",
     "static/media/project-img2.png": "/static/media/project-img2.a0d754515cb9c5fc9d4c.png",
@@ -10,6 +10,7 @@
     "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/project-img3.png": "/static/media/project-img3.633f447ad1449100ffee.png",
     "static/media/project-img4.png": "/static/media/project-img4.55f7b41fc2e5de22b460.png",
+    "static/media/project-img6.png": "/static/media/project-img6.63a3c335611e20c59a71.png",
     "static/media/project-img5.png": "/static/media/project-img5.031b087e45fa03f4fcc2.png",
     "static/media/banner-bg.png": "/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/resume.pdf": "/static/media/resume.bd04011cedd51dc1c7e0.pdf",
@@ -17,7 +18,6 @@
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
-    "static/media/project-img6.png": "/static/media/project-img6.ad41f2871c075c74b7de.png",
     "static/media/contact-img.svg": "/static/media/contact-img.62aa99e0f3b968b5d1ce9eb047f34fc7.svg",
     "static/media/logo7.svg": "/static/media/logo7.4d8b9a0c5a604b6b68d3750273f913d6.svg",
     "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
@@ -41,11 +41,11 @@
     "static/media/logo5.svg": "/static/media/logo5.973c73e85d4daa24b257ba20298716c4.svg",
     "static/media/logo13.svg": "/static/media/logo13.06152e58c3b0709047ce84114a1c69f1.svg",
     "main.d07354e7.css.map": "/static/css/main.d07354e7.css.map",
-    "main.2106a811.js.map": "/static/js/main.2106a811.js.map",
+    "main.55390487.js.map": "/static/js/main.55390487.js.map",
     "787.e02c0aaf.chunk.js.map": "/static/js/787.e02c0aaf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d07354e7.css",
-    "static/js/main.2106a811.js"
+    "static/js/main.55390487.js"
   ]
 }
