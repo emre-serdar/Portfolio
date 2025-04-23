@@ -14,6 +14,14 @@ export const Projects = () => {
 
   const projects = [
     {
+      title: "Cloud-Native Microservices Platform",
+      description: "A scalable web app built using microservices architecture, featuring secure user authentication and integration with multiple LLMs like Falcon and GPT-4.",
+      imgUrl: projImg6,
+      techstack: "React.js, Node.js, Express, Docker, MongoDB Atlas, JWT, Bcrypt, Hugging Face API, Jest, Supertest",
+      githubURL: "https://github.com/emre-serdar/cloud-native-microservices-app",
+      websiteURL: "",
+    },
+    {
       title: "kopernik.org",
       description: "Satellite Image API to Send Images from RaspberryPi to WordPress.",
       imgUrl: projImg1,
