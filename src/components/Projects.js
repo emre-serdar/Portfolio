@@ -7,6 +7,7 @@ import projImg3 from "assets/img/project-img3.png";
 import projImg4 from "assets/img/project-img4.png";
 import projImg5 from "assets/img/project-img5.png";
 import projImg6 from "assets/img/project-img6.png";
+import projImg7 from "assets/img/project-img7.png";
 
 import colorSharp2 from "assets/img/color-sharp2.png";
 import 'animate.css';
@@ -15,7 +16,16 @@ import TrackVisibility from 'react-on-screen';
 export const Projects = () => {
 
   const projects = [
+      {
+      title: "LinkedIn Message Sequencer",
+      description: "A full-stack, containerized LinkedIn outreach automation tool with message sequencing, reply tracking, and real-time status dashboards. Built using BullMQ, Redis, PostgreSQL, and a Next.js frontend, it’s designed for future LinkedIn API integration.",
+      imgUrl: projImg7, // Replace with appropriate image if different
+      techstack: "Next.js, TailwindCSS, TypeScript, Express.js, PostgreSQL, BullMQ, Redis, Docker Compose",
+      githubURL: "", 
+      websiteURL: "", 
+    },
     {
+      
       title: "Cloud-Native Microservices Platform",
       description: "A scalable web app built using microservices architecture, featuring secure user authentication and integration with multiple LLMs like Falcon and GPT-4.",
       imgUrl: projImg6,
