@@ -80,16 +80,13 @@ export const Banner = () => {
                 <span className="tagline">Welcome to my Portfolio</span>
                 <img src={profileImg} alt="Profile Img" className="profile-img no-animation"/>
                 <h1>{`Hi! I'm Emre,`} <span className="txt-rotate" data-period="1000" data-rotate='[ "Front-End Developer", "Software Engineer" ]'><span className="wrap">{text}</span></span></h1>
-                  <p>Full Stack Software Engineer specializing 
-                    in web development with extensive experience in both front-end 
-                    and back-end technologies. Proficient in JavaScript, Python, and 
-                    modern web frameworks such as React.js, Node.js, and Next.js. 
-                    Skilled in UI development, REST API design, and implementing 
-                    CI/CD pipelines using GitHub Actions. Strong foundation in data structures and algorithms, 
-                    as well as design patterns. Experienced in the Software Development Life Cycle (SDLC) and 
-                    adept at utilizing Agile methodologies. Seeking a challenging role in a dynamic and 
-                    collaborative team environment to leverage my skills and expertise in building innovative 
-                    and scalable web applications.</p>
+                  <p>Full-Stack Software Engineer focused on building fast, scalable, 
+                    and user-centric web applications.
+                    I specialize in modern JavaScript and Python ecosystems, working across the stack with tools like React, Next.js, Node.js, and PostgreSQL. 
+                    From clean UI components to robust APIs and background job queues, I enjoy shipping end-to-end features that solve real problems.
+                    I’ve implemented CI/CD pipelines, designed RESTful architectures, and worked with Docker, Redis, and AWS for deployment at scale. 
+                    With a strong foundation in algorithms, design patterns, and agile development, I bring both speed and structure to engineering teams.
+                    I’m always looking to collaborate on meaningful products that blend performance with great user experience.</p>
                   <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
               </div>}
             </TrackVisibility>
