@@ -21,7 +21,7 @@ export const Projects = () => {
       description: "A full-stack, containerized LinkedIn outreach automation tool with message sequencing, reply tracking, and real-time status dashboards. Built using BullMQ, Redis, PostgreSQL, and a Next.js frontend, it’s designed for future LinkedIn API integration.",
       imgUrl: projImg7, // Replace with appropriate image if different
       techstack: "Next.js, TailwindCSS, TypeScript, Express.js, PostgreSQL, BullMQ, Redis, Docker Compose",
-      githubURL: "", 
+      githubURL: "https://github.com/emre-serdar/linkedin-message-sequencer", 
       websiteURL: "", 
     },
     {
